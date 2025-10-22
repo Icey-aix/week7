@@ -1,0 +1,16 @@
+{
+  "name": "week7-starter",
+  "version": "1.0.0",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "express": "^5.1.0",
+    "lowdb": "^7.0.1"
+  }
+}
